@@ -6,10 +6,28 @@
     <description>Recent content in educación on Comunidad Nopalera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2020 23:21:23 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2020 20:18:25 -0500</lastBuildDate>
     
 	<atom:link href="https://nopalera.github.io/categories/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aprende a jugar backgammon</title>
+      <link>https://nopalera.github.io/posts/backgammon/</link>
+      <pubDate>Sat, 02 May 2020 20:18:25 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/backgammon/</guid>
+      <description>Generalmente cuando se compra un set económico de ajedrez, este viene acompañado de otras fichas para usar en el tablero. Estas son las fichas para jugar damas inglesas y también para usarlas en el backgammon cuyo tablero está al reverso del de ajedrez. Si bien damas inglesas no tiene una curva de aprendizaje difícil para empezar a jugar y la mayoría de las personas sabe las mecánicas del juego de manera intuitiva, no pasa lo mismo con backgammon.</description>
+    </item>
+    
+    <item>
+      <title>Compresion Lectora</title>
+      <link>https://nopalera.github.io/posts/compresion-lectora/</link>
+      <pubDate>Sat, 02 May 2020 20:14:53 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/compresion-lectora/</guid>
+      <description>   </description>
+    </item>
     
     <item>
       <title>Compartir Experiencias</title>
@@ -18,6 +36,26 @@
       
       <guid>https://nopalera.github.io/posts/compartir-experiencias/</guid>
       <description>Las figuras educativas nos comparten su experiencia a partir del trabajo que han realizado en Pilares o en Brigadas, qué imaginaban, cómo ha cambiado lo que pensaban que sería su labor.</description>
+    </item>
+    
+    <item>
+      <title>Tensión Superficial</title>
+      <link>https://nopalera.github.io/posts/tension-superficial/</link>
+      <pubDate>Wed, 08 Apr 2020 23:21:23 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/tension-superficial/</guid>
+      <description>    Conocer el concepto de tensión superficial
+Materiales para el experimento:
+ Agua Vaso de vidrio Un plato Jabón liquido Palillos Pimienta Cerillos </description>
+    </item>
+    
+    <item>
+      <title>Bachillerato en Linea</title>
+      <link>https://nopalera.github.io/posts/bachillerato-en-linea/</link>
+      <pubDate>Wed, 08 Apr 2020 19:27:21 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/bachillerato-en-linea/</guid>
+      <description>Dar a conocer algunas de las opciones con que se cuenta actualmente en el país, para incorporarse a la educación media superior (bachillerato), que son gratuitas o requieren de una inversión mínima para tener acceso a ellas, así como las cuales son sus características más relevantes y los requisitos a cubrir para ingresar.</description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bachillerato on Comunidad Nopalera</title>
+    <link>https://nopalera.github.io/tags/bachillerato/</link>
+    <description>Recent content in bachillerato on Comunidad Nopalera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2020 19:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://nopalera.github.io/tags/bachillerato/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bachillerato en Linea</title>
+      <link>https://nopalera.github.io/posts/bachillerato-en-linea/</link>
+      <pubDate>Wed, 08 Apr 2020 19:27:21 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/bachillerato-en-linea/</guid>
+      <description>Dar a conocer algunas de las opciones con que se cuenta actualmente en el país, para incorporarse a la educación media superior (bachillerato), que son gratuitas o requieren de una inversión mínima para tener acceso a ellas, así como las cuales son sus características más relevantes y los requisitos a cubrir para ingresar.</description>
+    </item>
+    
+  </channel>
+</rss>
