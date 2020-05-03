@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ecologia on Comunidad Nopalera</title>
+    <link>https://nopalera.github.io/tags/ecologia/</link>
+    <description>Recent content in ecologia on Comunidad Nopalera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2020 23:21:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://nopalera.github.io/tags/ecologia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taller de Huertos Urbanos</title>
+      <link>https://nopalera.github.io/posts/huertos-urbanos/</link>
+      <pubDate>Wed, 08 Apr 2020 23:21:23 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/huertos-urbanos/</guid>
+      <description>Beneficios de tener un Huerto Urbano. Qué necesito para tener mi propio huerto
+OBJETIVO GENERAL:
+MOSTRAR Y DAR A CONOCER A LA COMUNIDAD LA SUSTENTABILIDAD QUE TIENE UN HUERTO URBANO.
+OBJETIVOS ESPECÍFICOS:
+LOGRAR QUE LA COMUNIDAD TENGA UN INTERÉS POR REALIZAR SU HUERTO.
+DAR A CONOCER LOS BENEFICIOS DE LOS HUERTOS URBANOS.</description>
+    </item>
+    
+  </channel>
+</rss>
