@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ciberespacio on Comunidad Nopalera</title>
+    <link>https://nopalera.github.io/tags/ciberespacio/</link>
+    <description>Recent content in ciberespacio on Comunidad Nopalera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2020 23:21:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://nopalera.github.io/tags/ciberespacio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TIC&#39;S y busqueda de información</title>
+      <link>https://nopalera.github.io/posts/tecnologias-de-la-informacion/</link>
+      <pubDate>Wed, 08 Apr 2020 23:21:23 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/tecnologias-de-la-informacion/</guid>
+      <description>    Objetivos Particulares  Mostrar las nuevas tecnologías de la información y la comunicación, utilizando herramientas de software para interactuar, con ello se pretende mejorar el proceso de enseñanza-aprendizaje, y en gran medida lograr hacerlo más dinámico y didáctico Lograr identificar las fuentes confiables que están en el ciberespacio así como su correcto manejo y desechar toda aquella información que es basura o falsa Utilizar las tecnologías de información y comunicación para la solución de problemas ejemplificado con un tema matemático </description>
+    </item>
+    
+  </channel>
+</rss>
