@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>juegos on Comunidad Nopalera</title>
+    <link>https://nopalera.github.io/tags/juegos/</link>
+    <description>Recent content in juegos on Comunidad Nopalera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2020 20:18:25 -0500</lastBuildDate>
+    
+	<atom:link href="https://nopalera.github.io/tags/juegos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aprende a jugar Backgammon</title>
+      <link>https://nopalera.github.io/posts/backgammon/</link>
+      <pubDate>Wed, 08 Apr 2020 20:18:25 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/backgammon/</guid>
+      <description>Generalmente cuando se compra un set económico de ajedrez, este viene acompañado de otras fichas para usar en el tablero. Estas son las fichas para jugar damas inglesas y también para usarlas en el backgammon cuyo tablero está al reverso del de ajedrez. Si bien damas inglesas no tiene una curva de aprendizaje difícil para empezar a jugar y la mayoría de las personas sabe las mecánicas del juego de manera intuitiva, no pasa lo mismo con backgammon.</description>
+    </item>
+    
+  </channel>
+</rss>
