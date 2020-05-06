@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tecnológia on Comunidad Nopalera</title>
+    <link>https://nopalera.github.io/tags/tecnol%C3%B3gia/</link>
+    <description>Recent content in tecnológia on Comunidad Nopalera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2020 23:21:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://nopalera.github.io/tags/tecnol%C3%B3gia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Repara y desinfecta tu mouse</title>
+      <link>https://nopalera.github.io/posts/mantenimiento-del-mouse/</link>
+      <pubDate>Wed, 08 Apr 2020 23:21:23 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/mantenimiento-del-mouse/</guid>
+      <description>Corregir errores comunes en un mouse, logrando un mejor rendimiento y uso optimo de este importante dispositivo, dando una pequeña reseña de los tipos de mouses que existen, su papel que juegan, así como también observaremos los componentes internos con los que trabaja</description>
+    </item>
+    
+  </channel>
+</rss>
