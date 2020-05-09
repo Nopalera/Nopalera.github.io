@@ -3,18 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nopalera.github.io/about/</loc>
-    <lastmod>2020-05-09T03:00:54-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nopalera.github.io/</loc>
-    <lastmod>2020-05-09T03:00:54-05:00</lastmod>
+    <lastmod>2020-05-08T18:03:30-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nopalera.github.io/about/desc/</loc>
-    <lastmod>2020-05-09T03:00:54-05:00</lastmod>
+    <loc>https://nopalera.github.io/tags/encuesta/</loc>
+    <lastmod>2020-05-08T18:03:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/posts/encuesta/</loc>
+    <lastmod>2020-05-08T18:03:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/posts/</loc>
+    <lastmod>2020-05-08T18:03:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/tags/</loc>
+    <lastmod>2020-05-08T18:03:30-05:00</lastmod>
   </url>
   
   <url>
@@ -34,16 +44,6 @@
   
   <url>
     <loc>https://nopalera.github.io/posts/elaboracion-de-croquis/</loc>
-    <lastmod>2020-05-07T23:21:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nopalera.github.io/posts/</loc>
-    <lastmod>2020-05-07T23:21:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nopalera.github.io/tags/</loc>
     <lastmod>2020-05-07T23:21:23-05:00</lastmod>
   </url>
   
