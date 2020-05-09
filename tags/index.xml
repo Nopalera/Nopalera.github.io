@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Comunidad Nopalera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2020 23:21:23 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 20:46:50 -0500</lastBuildDate>
     
 	<atom:link href="https://nopalera.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>construccion</title>
+      <link>https://nopalera.github.io/tags/construccion/</link>
+      <pubDate>Thu, 07 May 2020 20:46:50 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/tags/construccion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>educacion ludica</title>
+      <link>https://nopalera.github.io/tags/educacion-ludica/</link>
+      <pubDate>Thu, 07 May 2020 20:45:17 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/tags/educacion-ludica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>juegos</title>
+      <link>https://nopalera.github.io/tags/juegos/</link>
+      <pubDate>Thu, 07 May 2020 20:45:17 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/tags/juegos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>pilares</title>
@@ -62,15 +89,6 @@
       <pubDate>Wed, 08 Apr 2020 23:21:23 -0500</pubDate>
       
       <guid>https://nopalera.github.io/tags/tecnol%C3%B3gia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>juegos</title>
-      <link>https://nopalera.github.io/tags/juegos/</link>
-      <pubDate>Wed, 08 Apr 2020 20:18:25 -0500</pubDate>
-      
-      <guid>https://nopalera.github.io/tags/juegos/</guid>
       <description></description>
     </item>
     

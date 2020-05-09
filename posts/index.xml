@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Comunidad Nopalera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Apr 2020 23:21:23 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2020 20:46:50 -0500</lastBuildDate>
     
 	<atom:link href="https://nopalera.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Elaboración de croquis y conceptos básicos de suelos y construcción</title>
+      <link>https://nopalera.github.io/posts/elaboracion-de-croquis/</link>
+      <pubDate>Thu, 07 May 2020 20:46:50 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/elaboracion-de-croquis/</guid>
+      <description>Aprende lo básico de construcción bosquejando el plano de tu casa.</description>
+    </item>
+    
+    <item>
+      <title>Malabares, aprende y juega</title>
+      <link>https://nopalera.github.io/posts/malabares/</link>
+      <pubDate>Thu, 07 May 2020 20:45:17 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/malabares/</guid>
+      <description>Beneficios en la educación y motricidad, como un ejercicio mental.</description>
+    </item>
     
     <item>
       <title>Fortalezas Y debilidades del aprendizaje</title>
