@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nopalera.github.io/categories/</loc>
+    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nopalera.github.io/</loc>
-    <lastmod>2020-05-08T18:03:30-05:00</lastmod>
+    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/categories/educaci%C3%B3n/</loc>
+    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/tags/musica/</loc>
+    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/posts/</loc>
+    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/posts/ejercicios-guitarra/</loc>
+    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/tags/</loc>
+    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/posts/lenguaje-algebraico/</loc>
+    <lastmod>2020-05-22T00:57:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/tags/matematicas/</loc>
+    <lastmod>2020-05-22T00:57:37-05:00</lastmod>
   </url>
   
   <url>
@@ -18,27 +58,7 @@
   </url>
   
   <url>
-    <loc>https://nopalera.github.io/posts/</loc>
-    <lastmod>2020-05-08T18:03:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nopalera.github.io/tags/</loc>
-    <lastmod>2020-05-08T18:03:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nopalera.github.io/categories/</loc>
-    <lastmod>2020-05-07T23:21:23-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nopalera.github.io/tags/construccion/</loc>
-    <lastmod>2020-05-07T23:21:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nopalera.github.io/categories/educaci%C3%B3n/</loc>
     <lastmod>2020-05-07T23:21:23-05:00</lastmod>
   </url>
   
@@ -63,17 +83,17 @@
   </url>
   
   <url>
-    <loc>https://nopalera.github.io/categories/podcast/</loc>
-    <lastmod>2020-05-07T23:21:23-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nopalera.github.io/posts/fortalezas-y-debilidades/</loc>
     <lastmod>2020-04-11T23:21:23-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://nopalera.github.io/tags/pilares/</loc>
+    <lastmod>2020-04-11T23:21:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/categories/podcast/</loc>
     <lastmod>2020-04-11T23:21:23-05:00</lastmod>
   </url>
   
