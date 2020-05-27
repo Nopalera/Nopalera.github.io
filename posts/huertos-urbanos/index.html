@@ -369,12 +369,10 @@ Qué necesito para tener mi propio huerto
     <section class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
       <article>
         <div class="ui top attached segment">
-          <h3 class="ui header">Acerca de nosotros</h3>
+          <h3 class="ui header">Como encontrarnos</h3>
         </div>
         <div class="ui attached segment markdown-body">
-          <p>Comunidad Nopalera</p>
-<iframe class="mapa"
-  height="350"
+          <iframe class="mapa"
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDwmQSNRKuEH1EDKJ-Y39TyVoQtref62wY
     &q=Centro Comunitario Nopalera, Angelica Paulet, La Nopalera, Ciudad de México, CDMX, México" allowfullscreen>
@@ -384,6 +382,18 @@ Qué necesito para tener mi propio huerto
       </article>
     </section>
   
+
+  <section class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    <article>
+      <div class="ui top attached segment">
+        <h3 class="ui header">Detección de gustos y necesidades</h3>
+      </div>
+      <div class="ui attached segment">
+        <a href="https://www.survio.com/survey/d/S5H8T2B8R3V9Z3R7Q">
+          <img src="/img/encuesta.jpeg" style="width: 100%; height: 100%"></a>
+      </div>
+    </article>
+  </section>
 
   <section class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
     
@@ -423,10 +433,16 @@ if (!doNotTrack) {
 
 
   </body>
+  <style type="text/css">
+    iframe {
+      width: 100% !important;
+      height: 100% !important
+    }
+  </style>
   <script type="text/javascript">
-    $(window).on('load', function() {
-        $('iframe').parent().parent().parent().addClass('section-map')
-        $('.section-map').attr('style', 'width: 369px !important')
+    $(function() {
+      $('iframe').parent().css('height', '370px')
     })
   </script>
+
 </html>
