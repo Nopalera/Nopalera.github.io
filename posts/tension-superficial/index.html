@@ -378,7 +378,7 @@ Conocer el concepto de tensión superficial"/>
         <div class="ui attached segment markdown-body">
           <p>Comunidad Nopalera</p>
 <iframe class="mapa"
-  height="450"
+  height="350"
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDwmQSNRKuEH1EDKJ-Y39TyVoQtref62wY
     &q=Centro Comunitario Nopalera, Angelica Paulet, La Nopalera, Ciudad de México, CDMX, México" allowfullscreen>
@@ -428,14 +428,9 @@ if (!doNotTrack) {
 
   </body>
   <script type="text/javascript">
-    $(function() {
-        $('iframe').parent().parent().parent().attr('style', 'width: 50% !important')
-        $('.back > div.ui.centered').css('justify-content', 'normal')
+    $(window).on('load', function() {
+        $('iframe').parent().parent().parent().addClass('section-map')
+        $('.section-map').attr('style', 'width: 370px !important')
     })
   </script>
-  <style type="text/css">
-    iframe {
-      width: 100%
-    }
-  </style>
 </html>
