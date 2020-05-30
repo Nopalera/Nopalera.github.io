@@ -526,7 +526,7 @@
 }
 
 .markdown-body hr {
-  background-color: #e1e4e8;
+  background-color: #555 !important;
   border: 0;
   height: .25em;
   margin: 24px 0;
