@@ -199,6 +199,15 @@ if (!doNotTrack) {
   <script type="text/javascript">
     $(function() {
       $('.mapa').parent().css('height', '370px')
+      if( $('.theme-switch').hasClass('moon') )
+        $('.markdown-body hr').css('background-color', '#555');
+    })
+
+    $('.theme-switch').click(function() {
+      if( $(this).hasClass('sun') )
+        $('.markdown-body hr').css('background-color', '#e1e4e8');
+      else
+        $('.markdown-body hr').css('background-color', '#555');
     })
   </script>
   <style>
