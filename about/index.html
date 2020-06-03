@@ -56,7 +56,7 @@
   </head>
 
   
-  <body style="background-image: url(/img/background.png);">
+  <body style="background-image: url(/img/background2.jpg);">
   
     <div class="flip-container">
       <div class="flipper">
@@ -288,7 +288,7 @@
 
   <div class="image">
     
-      <img src="/img/default1.jpg" alt="Como encontrarnos" />
+      <img src="/img/default2.jpg" alt="Como encontrarnos" />
     
   </div>
 
@@ -447,10 +447,14 @@ if (!doNotTrack) {
     })
 
     $('.theme-switch').click(function() {
-      if( $(this).hasClass('sun') )
+      if( $(this).hasClass('sun') ) {
         $('.markdown-body hr').css('background-color', '#e1e4e8');
-      else
+        $('.post-body-inner').css('color', 'black')
+      }
+      else {
         $('.markdown-body hr').css('background-color', '#555');
+        $('.post-body-inner').css('color', 'white')
+      }
     })
   </script>
   <style>
