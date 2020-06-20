@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nopalera.github.io/posts/prueba/</loc>
+    <lastmod>2020-06-18T21:29:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/categories/</loc>
+    <lastmod>2020-06-18T21:29:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/</loc>
+    <lastmod>2020-06-18T21:29:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/posts/</loc>
+    <lastmod>2020-06-18T21:29:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nopalera.github.io/categories/videoteca/</loc>
+    <lastmod>2020-06-18T21:29:28+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nopalera.github.io/about/</loc>
     <lastmod>2020-05-25T21:29:40-05:00</lastmod>
   </url>
@@ -13,27 +38,12 @@
   </url>
   
   <url>
-    <loc>https://nopalera.github.io/</loc>
-    <lastmod>2020-05-25T21:29:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nopalera.github.io/categories/</loc>
-    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nopalera.github.io/categories/educaci%C3%B3n/</loc>
     <lastmod>2020-05-22T01:01:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://nopalera.github.io/tags/musica/</loc>
-    <lastmod>2020-05-22T01:01:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nopalera.github.io/posts/</loc>
     <lastmod>2020-05-22T01:01:14-05:00</lastmod>
   </url>
   
